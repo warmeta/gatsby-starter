@@ -12,6 +12,11 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "dependencies": {
     "gatsby": "^2.13.51",
     "gatsby-source-filesystem": "^2.1.9",
